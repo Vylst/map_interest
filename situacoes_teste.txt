@@ -1,0 +1,55 @@
+Full clip original -> FPS: 60
+
+TEST CLIP LIST (extraindo a cada 5 frames, cada imagem deverá ter uma duração de 5/60=0.083333 seg)
+
+Scenario 1:
+	1:28 - 6:50 		Apresentação mais visual, principalmente figuras
+	Frame: 5280 (2640 a 30fps)
+	Duração: 322 seg --> 19320 Frames. Extraindo a cada 5 frames dá 3864 imagens
+
+Scenario 2:
+	11:53 - 13:00 		Apresentação mais teórica, explicação do modelo de camera pinhole
+	Frame: 42780 (21390 a 30fps)
+	Duração: 67 seg --> 4020 Frames. Extraindo a cada 5 frames dá 804 imagens
+
+Scenario 3:
+	20:30 - 22:20		Apresentação mais teórica, explicação da matrix de calibrarão da camera 
+	Frame: 73800 (36900 a 30fps)
+	Duração: 110 seg --> 6600 Frames. Extraindo a cada 5 frames dá 1320 imagens
+
+Scenario 4:
+	22:52 - 23:18		Questão do aluno
+	Frame: 82320 (41160 a 30fps)
+	Duração: 26 seg --> 1560 Frames. Extraindo a cada 5 frames dá 312 imagens
+
+Scenario 5:
+	23:25 - 25:35 		Explicação ao aluno
+	Frame: 84300 (42150 a 30fps)
+	Duração: 130 seg --> 7800 Frames. Extraindo a cada 5 frames dá 1560 imagens
+
+Scenario 6:
+	46:22 - 48:31 		Demonstração de realidade aumentada
+	Frame: 166920 (83460 a 30fps)
+	Duração: 129 seg --> 7740 Frames. Extraindo a cada 5 frames dá 1548 imagens
+
+Scenario 7:
+	56:02 - 57:03		Professor chama a atenção dos alunos para um assunto
+	Frame: 201720 (100860 a 30fps)
+	Duração: 61 seg --> 3660 Frames. Extraindo a cada 5 frames dá 732 imagens
+
+Scenario 8:
+	57:09 - 57:50		Apresentação mais visual, o professor mostra um pequeno video/clip
+	Frame: 205740 (102870 a 30fps)
+	Duração: 41 seg --> 2460 Frames. Extraindo a cada 5 frames dá 492 imagens
+
+Scenario 9:
+	1:04:00 - 1:05:05	Registo da presença dos alunos (através de um screenshot)
+	Frame: 230400 (115200 a 30fps)
+	Duração: 65 seg --> 3900 Frames. Extraindo a cada 5 frames dá 780 imagens
+
+Scenario 10:
+	1:05:00 - 1:05:42	Final da aula e despedida
+	Frame: 234000 (117000 a 30fps)
+	Duração: 42 seg --> 2520 Frames. Extraindo a cada 5 frames dá 504 imagens
+
+
